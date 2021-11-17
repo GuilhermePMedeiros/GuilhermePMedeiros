@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
