@@ -1,13 +1,13 @@
+<!--
 <div align="center">
- <h2 style="font-family: 'Source Code Pro', monospace;">Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖</h2>
-  <!--
   <a href="https://github.com/GuilhermePMedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePMedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePMedeiros&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-  -->
 </div>
+-->
 <div style="display: inline_block"><br>
+ <h2 style="font-family: 'Source Code Pro', monospace;">Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖</h2>
  <!--
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
