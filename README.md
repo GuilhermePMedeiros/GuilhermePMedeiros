@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖</h1>
+ <h2 style="font-family: 'Source Code Pro', monospace;">Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖</h2>
   <!--
   <a href="https://github.com/GuilhermePMedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePMedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,13 +14,13 @@
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
  -->
-   <h2> Ferramentas utilizadas nos projetos </h2>
+   <h3> Ferramentas utilizadas nos projetos </h3>
   <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Guilherme-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Guilherme-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Guilherme-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <h2> Outras ferramentas e conhecimentos </h2>
-  <h3> Metodologia ágil scrum </h3>
+  <h3> Outras ferramentas e conhecimentos </h3>
+  <h4> Metodologia ágil scrum </h4>
   <img align="center" alt="Guilherme-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Guilherme-sourcetree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg">
   <img align="center" alt="Guilherme-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
@@ -38,11 +38,6 @@
   <a href="https://www.instagram.com/guilherme.p.medeiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme.p.medeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermepachecodemedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <style>
-    h1, h2, h3, h4, h5, p {
-      font-family: 'Source Code Pro', monospace;
-    }
-  </style>
 </div>
 
 
