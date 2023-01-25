@@ -1,6 +1,5 @@
-## Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖
-
 <div align="center">
+ <h1>Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas. 🤖</h1>
   <!--
   <a href="https://github.com/GuilhermePMedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePMedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -39,10 +38,11 @@
   <a href="https://www.instagram.com/guilherme.p.medeiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme.p.medeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermepachecodemedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <style>
+    h1, h2, h3, h4, h5, p {
+      font-family: 'Source Code Pro', monospace;
+    }
+  </style>
 </div>
 
-<style>
-  h1, h2, h3, h4, h5, p {
-    font-family: 'Source Code Pro', monospace;
-  }
-</style>
+
