@@ -7,13 +7,13 @@
 </div>
 -->
 <div style="display: inline_block"><br>
-  <h2>Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas 🤖 </br> (Hello! I'm Guilherme Pacheco, Systems Development Technician 🤖)</h2>
-   <h3>Principais ferramentas utilizadas nos projetos </br> (Main tools used in projects) </h3>
+  <h2>- Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas 🤖 </br> - Hello! I'm Guilherme Pacheco, Systems Development Technician 🤖)</h2>
+   <h3>Principais ferramentas utilizadas nos projetos - Main tools used in projects </h3>
   <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Guilherme-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Guilherme-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Guilherme-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <h3> Outras tecnologias e conhecimentos </br> (Other technologies and knowledge)/h3>
+  <h3> Outras tecnologias e conhecimentos - Other technologies and knowledge </h3>
    <!--
     <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    -->
@@ -21,11 +21,11 @@
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   
-  <h4> Metodologia ágil scrum </br> (agile scrum methodology)</h4>
+  <h4> Metodologia ágil scrum - agile scrum methodology</h4>
   <img align="center" alt="Guilherme-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Guilherme-sourcetree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg">
   <img align="center" alt="Guilherme-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
-  <h4> Sistemas operacionais </br> (Operational systems)</h4>
+  <h4> Sistemas operacionais - Operational systems</h4>
   <img align="center" alt="Guilherme-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Guilherme-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <br/>
