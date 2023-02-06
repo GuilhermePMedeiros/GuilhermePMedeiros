@@ -7,7 +7,7 @@
 </div>
 -->
 <div style="display: inline_block"><br>
- <h2>Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas </br> Hello! I'm Guilherme Pacheco, Systems Development Technician 🤖</h2>
+ <h2>Olá! Eu sou Guilherme Pacheco, Técnico em Desenvolvimento de sistemas 🤖 - Hello! I'm Guilherme Pacheco, Systems Development Technician 🤖</h2>
    <h3>Principais ferramentas utilizadas nos projetos - Main tools used in projects </h3>
   <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Guilherme-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
