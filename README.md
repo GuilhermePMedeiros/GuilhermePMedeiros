@@ -27,7 +27,7 @@
   <img align="center" alt="Guilherme-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
   <h4> Sistemas operacionais - Operational systems</h4>
   <img align="center" alt="Guilherme-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Guilherme-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Guilherme-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <br/>
   
   
