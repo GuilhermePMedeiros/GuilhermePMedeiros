@@ -21,11 +21,11 @@
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   
-  <h4> Metodologia ágil scrum - agile scrum methodology</h4>
+  <h3> Metodologia ágil scrum - agile scrum methodology</h3>
   <img align="center" alt="Guilherme-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Guilherme-sourcetree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg">
   <img align="center" alt="Guilherme-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
-  <h4> Sistemas operacionais - Operational systems</h4>
+  <h3> Sistemas operacionais - Operational systems</h3>
   <img align="center" alt="Guilherme-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Guilherme-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <br/>
