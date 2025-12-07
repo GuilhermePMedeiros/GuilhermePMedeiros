@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
-  <h1>:technologist:</h1>
-  <h2> Software Engineer, aos 23 anos, especializado em Java e Golang. Formado em Análise e Desenvolvimento de Sistemas técnico e superior, trabalhando na criação de soluções web e mobile com foco em desempenho, organização e escalabilidade.</h2>
+
+  <h2>:technologist: Software Engineer, aos 23 anos, especializado em Java e Golang. Formado em Análise e Desenvolvimento de Sistemas técnico e superior, trabalhando na criação de soluções web e mobile com foco em desempenho, organização e escalabilidade.</h2>
    <h3>Principais ferramentas utilizadas nos projetos:</h3>
   <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Guilherme-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
